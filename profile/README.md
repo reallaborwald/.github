@@ -17,9 +17,9 @@ Markdown: https://docs.github.com/github/writing-on-github/getting-started-with-
 -->
 
 
-## Hi there 👋
-
 ## Reallabor Wald / Living the Forest Lab
+
+![banner with logo of burning match and text: Living the Forest Lab is a research project that brings together electrical engineering and design to explore transdisciplinary, experimental ways of creating prototypes for forest protection with feminist perspectives.](docs/lifo_banner.png)
 
 “Living the Forest Lab” is a research initiative funded by the Stiftung Innovation in der Hochschullehre, located at TU Berlin’s Faculty IV Electrical Engineering and Computer Science, Department of Communications Systems.
 
